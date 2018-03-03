@@ -1,7 +1,7 @@
 # Color-Picker
 It is an Color-Picker purely created by CANVAS javascripts.
 # Demo
-[This]() is a simple demo of Note-book.
+[This]( https://santanubiswas948.github.io/Color-Picker/) is a simple demo of Note-book.
 # Installation
 ```sh
   1.you can download it.
