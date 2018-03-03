@@ -63,7 +63,6 @@ document.onreadystatechange = () =>
                 var colorData=elm.getImageData(x,y,1,1);
                 var color='rgb('+colorData.data[0]+','+colorData.data[1]+','+colorData.data[2]+')';
                 document.getElementById('text').style.color=color;
-                console.log(color);
                 prev_color=color;
                 evt.target.style.display='none';
                 evt.target.removeEventListener("click",fun1);
